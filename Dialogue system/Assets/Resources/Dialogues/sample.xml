@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<root>
+  <dialogue>
+    <narrative>Sample</narrative>
+    <text>Hello world this is Daan Ruting. </text>
+    <textSpeed>0.05</textSpeed>
+    <Options>
+      
+    </Options>
+  </dialogue>
+</root>
