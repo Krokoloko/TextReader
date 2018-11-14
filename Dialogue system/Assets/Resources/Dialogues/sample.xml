@@ -3,10 +3,14 @@
 <root>
   <dialogue>
     <narrative>Sample</narrative>
-    <text>Hello world this is Daan Ruting. </text>
+    <text>Hello world this is Daan Ruting.
+    (\)You will die if making one wrong move.
+    (\)What will you do?</text>
     <textSpeed>0.05</textSpeed>
     <Options>
-      
+      <option text="Senpuku"></option>
+      <option text="Insult him"></option>
+      <option text="Run away"></option>
     </Options>
   </dialogue>
 </root>
